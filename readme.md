@@ -7,14 +7,13 @@
 
 ### 🧪 Recent Projects
 
-- 🔬 [Transcriptomic Analysis of Trehalose-Induced Autophagy in H841 SCLC Cells](https://github.com/YOURUSERNAME/trehalose-sclc)
-- 🧬 [HYOU1 Knockdown and Gene Expression in Hep3B Liver Cancer Cells](https://github.com/YOURUSERNAME/hyou1-hep3b-rnaseq)
+- 🔬 [Transcriptomic Analysis of Trehalose-Induced Autophagy in H841 SCLC Cells] (https://github.com/pranotidhondage/trehalose--SCLC.git)
 
 
 ### 🧰 Tools & Skills
 
 - **Languages:** Python, R, Bash
-- **Tools:** Galaxy Europe, STAR, HTSeq, DESeq2, FastQC, Trimmomatic, IGV  
+- **Tools:** Galaxy Europe, Molecular D
 - **Visualization:** ggplot2, matplotlib, seaborn  
 - **Annotation:** DAVID, Metascape, g:Profiler
 
